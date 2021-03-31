@@ -10,11 +10,15 @@
 	- Thanks to WMCTF's challenge 'ipcam'
 - 2020/9/02. Multiple vulnerabilities of **HICHIP** were found by us(C0ss4ck, H4lo, MozhuCY). *ALL DETAIL IS SECRET*.
 	- Maybe some months or years later, we'll publish(or sell) a tool to exploit HICHIP.
-- 2020/11/03, 1 vulnerablitie of **ZTE Topbox** was found by me(C0ss4ck), which caused by unsafe SSI. *ALL DETAIL IS SECRET*.
+- 2020/11/03, 1 vulnerablity of **ZTE Topbox** was found by me(C0ss4ck), which caused by unsafe SSI. *ALL DETAIL IS SECRET*.
 - 2020/12/22, 2 backdoors of **ZTE Topbox** were found by us(C0ss4ck, MozhuCY). *ALL DETAIL IS SECRET*.
+- 2021/2/1, an funny vulnerability of  **DrayTek Vigor 2960/3900/300B VPN Router** was found by us(C0ss4ck, H4lo), which has no need of authorization. Finnaly it was reported to DrayTek and CNVD
+	- CNVD-2021-17368
+
 
 ## Summary
 
 As we prepared, we are going to 
 1. develop a tool to scan CMDi inside any binary.
 2. research on mail server.
+3. target on mobile OS.
